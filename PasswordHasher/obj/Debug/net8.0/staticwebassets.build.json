@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/WII6+aVYqEYSv0J+kLVyIsUbvxXaxOpMbh58Cl6brw=",
+  "Source": "PasswordHasher",
+  "BasePath": "_content/PasswordHasher",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
